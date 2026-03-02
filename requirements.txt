@@ -1,0 +1,17 @@
+djangorestframework
+drf-yasg
+django-debug-toolbar
+djangorestframework-simplejwt
+django-cors-headers
+psycopg>=3.2
+python-decouple
+django-filter --pre
+redis
+rest-framework-roles
+minio
+boto3
+django-minio-backend
+celery
+daphne
+channels
+channels_redis
